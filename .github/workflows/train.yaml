@@ -1,10 +1,17 @@
-- name: Run Python Script
+name: Run Python Script
 
-  env:
-    bnet_client_id = ${{ secrets.BNET_CLIENT_ID }}
-    bnet_client_secret = ${{ secrets.BNET_CLIENT_SECRET } 
-  run:
-    spec_images.py
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deployment:
+    runs-on: ubuntu-latest
+    environment: train-both
+  steps:
+    - name: Run Spec Images
+      run: spec_images.py
   
 #jobs:
 #  run-python:
