@@ -1,7 +1,6 @@
 steps:
   - name: bnet access
-  with:
-    bnet_client_id = ${{secrets.BNET_CLIENT_ID }}
-    bnet_client_secret = ${{secrets.BNET_CLIENT_SECRET }}
-  run:
-    spec_images.py
+    run: spec_images.py
+    env:
+      bnet_client_id = ${{secrets.BNET_CLIENT_ID }}
+      bnet_client_secret = ${{secrets.BNET_CLIENT_SECRET }}
