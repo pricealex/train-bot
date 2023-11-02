@@ -1,0 +1,40 @@
+id,name,class_name,spec_media
+62,Arcane,Mage,https://render.worldofwarcraft.com/us/icons/56/spell_holy_magicalsentry.jpg
+63,Fire,Mage,https://render.worldofwarcraft.com/us/icons/56/spell_fire_firebolt02.jpg
+64,Frost,Mage,https://render.worldofwarcraft.com/us/icons/56/spell_frost_frostbolt02.jpg
+65,Holy,Paladin,https://render.worldofwarcraft.com/us/icons/56/spell_holy_holybolt.jpg
+66,Protection,Paladin,https://render.worldofwarcraft.com/us/icons/56/ability_paladin_shieldofthetemplar.jpg
+70,Retribution,Paladin,https://render.worldofwarcraft.com/us/icons/56/spell_holy_auraoflight.jpg
+71,Arms,Warrior,https://render.worldofwarcraft.com/us/icons/56/ability_warrior_savageblow.jpg
+72,Fury,Warrior,https://render.worldofwarcraft.com/us/icons/56/ability_warrior_innerrage.jpg
+73,Protection,Warrior,https://render.worldofwarcraft.com/us/icons/56/ability_warrior_defensivestance.jpg
+102,Balance,Druid,https://render.worldofwarcraft.com/us/icons/56/spell_nature_starfall.jpg
+103,Feral,Druid,https://render.worldofwarcraft.com/us/icons/56/ability_druid_catform.jpg
+104,Guardian,Druid,https://render.worldofwarcraft.com/us/icons/56/ability_racial_bearform.jpg
+105,Restoration,Druid,https://render.worldofwarcraft.com/us/icons/56/spell_nature_healingtouch.jpg
+250,Blood,Death Knight,https://render.worldofwarcraft.com/us/icons/56/spell_deathknight_bloodpresence.jpg
+251,Frost,Death Knight,https://render.worldofwarcraft.com/us/icons/56/spell_deathknight_frostpresence.jpg
+252,Unholy,Death Knight,https://render.worldofwarcraft.com/us/icons/56/spell_deathknight_unholypresence.jpg
+253,Beast Mastery,Hunter,https://render.worldofwarcraft.com/us/icons/56/ability_hunter_bestialdiscipline.jpg
+254,Marksmanship,Hunter,https://render.worldofwarcraft.com/us/icons/56/ability_hunter_focusedaim.jpg
+255,Survival,Hunter,https://render.worldofwarcraft.com/us/icons/56/ability_hunter_camouflage.jpg
+256,Discipline,Priest,https://render.worldofwarcraft.com/us/icons/56/spell_holy_powerwordshield.jpg
+257,Holy,Priest,https://render.worldofwarcraft.com/us/icons/56/spell_holy_guardianspirit.jpg
+258,Shadow,Priest,https://render.worldofwarcraft.com/us/icons/56/spell_shadow_shadowwordpain.jpg
+259,Assassination,Rogue,https://render.worldofwarcraft.com/us/icons/56/ability_rogue_deadlybrew.jpg
+260,Outlaw,Rogue,https://render.worldofwarcraft.com/us/icons/56/ability_rogue_waylay.jpg
+261,Subtlety,Rogue,https://render.worldofwarcraft.com/us/icons/56/ability_stealth.jpg
+262,Elemental,Shaman,https://render.worldofwarcraft.com/us/icons/56/spell_nature_lightning.jpg
+263,Enhancement,Shaman,https://render.worldofwarcraft.com/us/icons/56/spell_shaman_improvedstormstrike.jpg
+264,Restoration,Shaman,https://render.worldofwarcraft.com/us/icons/56/spell_nature_magicimmunity.jpg
+265,Affliction,Warlock,https://render.worldofwarcraft.com/us/icons/56/spell_shadow_deathcoil.jpg
+266,Demonology,Warlock,https://render.worldofwarcraft.com/us/icons/56/spell_shadow_metamorphosis.jpg
+267,Destruction,Warlock,https://render.worldofwarcraft.com/us/icons/56/spell_shadow_rainoffire.jpg
+268,Brewmaster,Monk,https://render.worldofwarcraft.com/us/icons/56/spell_monk_brewmaster_spec.jpg
+269,Windwalker,Monk,https://render.worldofwarcraft.com/us/icons/56/spell_monk_windwalker_spec.jpg
+270,Mistweaver,Monk,https://render.worldofwarcraft.com/us/icons/56/spell_monk_mistweaver_spec.jpg
+577,Havoc,Demon Hunter,https://render.worldofwarcraft.com/us/icons/56/ability_demonhunter_specdps.jpg
+581,Vengeance,Demon Hunter,https://render.worldofwarcraft.com/us/icons/56/ability_demonhunter_spectank.jpg
+1467,Devastation,Evoker,https://render.worldofwarcraft.com/us/icons/56/classicon_evoker_devastation.jpg
+1468,Preservation,Evoker,https://render.worldofwarcraft.com/us/icons/56/classicon_evoker_preservation.jpg
+1473,Augmentation,Evoker,https://render.worldofwarcraft.com/us/icons/56/classicon_evoker_augmentation.jpg
