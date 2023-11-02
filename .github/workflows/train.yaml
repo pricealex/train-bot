@@ -1,24 +1,22 @@
-name: Run Python Script
+- name: Run Python Script
 
-on:
-  workflow_dispatch
+  env:
+    bnet_client_id = ${{ secrets.BNET_CLIENT_ID }}
+    bnet_client_secret = ${{ secrets.BNET_CLIENT_SECRET } 
+  run:
+    spec_images.py
+  
+#jobs:
+#  run-python:
+#    steps:
+#    - name: Checkout Code
+#      uses: actions/checkou@v3#
 
-env:
-  bnet_client_id = ${{ secrets.BNET_CLIENT_ID }}
-  bnet_client_secret = ${{ secrets.BNET_CLIENT_SECRET } 
-
-
-jobs:
-  run-python:
-    steps:
-    - name: Checkout Code
-      uses: actions/checkou@v3
-
-    - name: Setup Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.11'
+#    - name: Setup Python
+#      uses: actions/setup-python@v4
+#      with:
+#        python-version: '3.11'
     
-    - name: Run Python Script
-      run: spec_images.py
+#    - name: Run Python Script
+#      run: spec_images.py
 
