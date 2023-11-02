@@ -1,6 +1,8 @@
-steps:
-  - name: bnet access
-    run: spec_images.py
-    env:
-      bnet_client_id = ${{secrets.BNET_CLIENT_ID }}
-      bnet_client_secret = ${{secrets.BNET_CLIENT_SECRET }}
+jobs:
+  run:
+    steps:
+    - name: bnet access
+      run: spec_images.py
+      env:
+        bnet_client_id = ${{secrets.BNET_CLIENT_ID }}
+        bnet_client_secret = ${{secrets.BNET_CLIENT_SECRET }}
