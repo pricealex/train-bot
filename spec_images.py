@@ -21,7 +21,7 @@ spec_index = requests.get(f'https://us.api.blizzard.com/data/wow/playable-specia
 spec_dict = {}
 
 for i in spec_index['character_specializations']:
-    spec_dict[i['id']] = {'name':i['name']}
+    spec_dict[i['id']] = {'spec_name':i['name']}
 
 spec_df = pd.DataFrame.from_dict(spec_dict, orient='index')
 spec_df.index.name = 'id'
@@ -50,4 +50,12 @@ spec_media_df.index.name = 'id'
 
 spec_df = spec_df.join(spec_media_df)
 
+# Spec Colour Schemes
+spec_colours = {'Monk':['#00FF98','#6effae','#9cffc2']}
+
+
+
 spec_df.to_csv('spec_df.csv')
+
+spec_df
+
