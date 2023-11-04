@@ -1,0 +1,40 @@
+class,spec_n,spec_name,spec_short2,spec_short
+Death Knight,spec_0,Blood,BLD,Blood
+Death Knight,spec_1,Frost,FRST,Frost
+Death Knight,spec_2,Unholy,UNH,Unholy
+Demon Hunter,spec_0,Havoc,HVC,Havoc
+Demon Hunter,spec_1,Vengeance,VDH,VDH
+Druid,spec_0,Balance,BAL,Balance
+Druid,spec_1,Feral,FER,Feral
+Druid,spec_2,Guardian,GUA,Bear
+Druid,spec_3,Restoration,RESTO,Resto
+Hunter,spec_0,Beast Mastery,Bm,BM
+Hunter,spec_1,Marksmanship,MM,MM
+Hunter,spec_2,Survival,SURV,Surv
+Mage,spec_0,Arcane,ARC,Arcane
+Mage,spec_1,Fire,FIRE,Fire
+Mage,spec_2,Frost,FRST,Frost
+Monk,spec_0,Brewmaster,BREW,Brew
+Monk,spec_1,Mistweaver,MIST,Mist
+Monk,spec_2,Windwalker,WW,WW
+Paladin,spec_0,Holy,HPAL,HPal
+Paladin,spec_1,Protection,PROT,Prot
+Paladin,spec_2,Retribution,RET,Ret
+Priest,spec_0,Discipline,DISC,Disc
+Priest,spec_1,Holy,HPR,Holy
+Priest,spec_2,Shadow,SHAD,Shadow
+Rogue,spec_0,Assassination,SIN,Sin
+Rogue,spec_1,Outlaw,OUTL,Outlaw
+Rogue,spec_2,Subtlety,SUB,Sub
+Shaman,spec_0,Elemental,ELE,Ele
+Shaman,spec_1,Enhancement,ENH,Enh
+Shaman,spec_2,Restoration,RESTO,Resto
+Warlock,spec_0,Affliction,AFFL,Affl
+Warlock,spec_1,Demonology,DEMO,Demo
+Warlock,spec_2,Destruction,DSTRO,Destro
+Warrior,spec_0,Arms,ARMS,Arms
+Warrior,spec_1,Fury,FURY,Fury
+Warrior,spec_2,Protection,PROT,Prot
+Evoker,spec_0,Devastation,DVOKE,Devoker
+Evoker,spec_1,Preservation,PVOKE,Prevoker
+Evoker,spec_2,Augmentation,AUG,Augvoker

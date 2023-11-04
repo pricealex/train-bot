@@ -1,0 +1,221 @@
+,class,spec_n,char_name,score,spec_name,spec_short2,spec_short
+0,Death Knight,spec_0,Beardzdk,0.0,Blood,BLD,Blood
+1,Death Knight,spec_0,Dcfnight,0.0,Blood,BLD,Blood
+2,Death Knight,spec_0,Dingplague,972.8,Blood,BLD,Blood
+3,Death Knight,spec_0,Eesod,2561.9,Blood,BLD,Blood
+4,Death Knight,spec_0,Fannybaws,0.0,Blood,BLD,Blood
+5,Death Knight,spec_0,Lilbitodeath,0.0,Blood,BLD,Blood
+6,Death Knight,spec_0,Limbô,1392.4,Blood,BLD,Blood
+7,Death Knight,spec_0,Miscknight,0.0,Blood,BLD,Blood
+8,Death Knight,spec_0,Undeadned,157.5,Blood,BLD,Blood
+9,Death Knight,spec_1,Beardzdk,0.0,Frost,FRST,Frost
+10,Death Knight,spec_1,Dcfnight,0.0,Frost,FRST,Frost
+11,Death Knight,spec_1,Dingplague,0.0,Frost,FRST,Frost
+12,Death Knight,spec_1,Eesod,0.0,Frost,FRST,Frost
+13,Death Knight,spec_1,Fannybaws,0.0,Frost,FRST,Frost
+14,Death Knight,spec_1,Lilbitodeath,0.0,Frost,FRST,Frost
+15,Death Knight,spec_1,Limbô,206.1,Frost,FRST,Frost
+16,Death Knight,spec_1,Miscknight,0.0,Frost,FRST,Frost
+17,Death Knight,spec_1,Undeadned,0.0,Frost,FRST,Frost
+18,Death Knight,spec_2,Beardzdk,1197.2,Unholy,UNH,Unholy
+19,Death Knight,spec_2,Dcfnight,0.0,Unholy,UNH,Unholy
+20,Death Knight,spec_2,Dingplague,0.0,Unholy,UNH,Unholy
+21,Death Knight,spec_2,Eesod,0.0,Unholy,UNH,Unholy
+22,Death Knight,spec_2,Fannybaws,97.5,Unholy,UNH,Unholy
+23,Death Knight,spec_2,Lilbitodeath,0.0,Unholy,UNH,Unholy
+24,Death Knight,spec_2,Limbô,0.0,Unholy,UNH,Unholy
+25,Death Knight,spec_2,Miscknight,0.0,Unholy,UNH,Unholy
+26,Death Knight,spec_2,Undeadned,2266.6,Unholy,UNH,Unholy
+27,Demon Hunter,spec_0,Demonichoe,0.0,Havoc,HVC,Havoc
+28,Demon Hunter,spec_0,Milèt,586.0,Havoc,HVC,Havoc
+29,Demon Hunter,spec_0,Tuffluck,252.6,Havoc,HVC,Havoc
+30,Demon Hunter,spec_0,Zymz,1995.4,Havoc,HVC,Havoc
+31,Demon Hunter,spec_1,Demonichoe,0.0,Vengeance,VDH,VDH
+32,Demon Hunter,spec_1,Milèt,0.0,Vengeance,VDH,VDH
+33,Demon Hunter,spec_1,Tuffluck,0.0,Vengeance,VDH,VDH
+34,Demon Hunter,spec_1,Zymz,2643.0,Vengeance,VDH,VDH
+35,Druid,spec_0,Darknthicc,0.0,Balance,BAL,Balance
+36,Druid,spec_0,Dingkin,0.0,Balance,BAL,Balance
+37,Druid,spec_0,Fcf,0.0,Balance,BAL,Balance
+38,Druid,spec_0,Miscon,0.0,Balance,BAL,Balance
+39,Druid,spec_0,Sêxualhealin,1745.2,Balance,BAL,Balance
+40,Druid,spec_1,Darknthicc,0.0,Feral,FER,Feral
+41,Druid,spec_1,Dingkin,0.0,Feral,FER,Feral
+42,Druid,spec_1,Fcf,2478.1,Feral,FER,Feral
+43,Druid,spec_1,Miscon,0.0,Feral,FER,Feral
+44,Druid,spec_1,Sêxualhealin,0.0,Feral,FER,Feral
+45,Druid,spec_2,Darknthicc,2508.5,Guardian,GUA,Bear
+46,Druid,spec_2,Dingkin,0.0,Guardian,GUA,Bear
+47,Druid,spec_2,Fcf,0.0,Guardian,GUA,Bear
+48,Druid,spec_2,Miscon,0.0,Guardian,GUA,Bear
+49,Druid,spec_2,Sêxualhealin,0.0,Guardian,GUA,Bear
+50,Druid,spec_3,Darknthicc,0.0,Restoration,RESTO,Resto
+51,Druid,spec_3,Dingkin,0.0,Restoration,RESTO,Resto
+52,Druid,spec_3,Fcf,0.0,Restoration,RESTO,Resto
+53,Druid,spec_3,Miscon,954.9,Restoration,RESTO,Resto
+54,Druid,spec_3,Sêxualhealin,672.7,Restoration,RESTO,Resto
+55,Evoker,spec_0,Hitalot,187.0,Devastation,DVOKE,Devoker
+56,Evoker,spec_0,Justvokeup,0.0,Devastation,DVOKE,Devoker
+57,Evoker,spec_0,Zymsz,90.0,Devastation,DVOKE,Devoker
+58,Evoker,spec_1,Hitalot,0.0,Preservation,PVOKE,Prevoker
+59,Evoker,spec_1,Justvokeup,0.0,Preservation,PVOKE,Prevoker
+60,Evoker,spec_1,Zymsz,853.1,Preservation,PVOKE,Prevoker
+61,Evoker,spec_2,Hitalot,0.0,Augmentation,AUG,Augvoker
+62,Evoker,spec_2,Justvokeup,0.0,Augmentation,AUG,Augvoker
+63,Evoker,spec_2,Zymsz,216.4,Augmentation,AUG,Augvoker
+64,Hunter,spec_0,Brakyn,2767.1,Beast Mastery,Bm,BM
+65,Hunter,spec_0,Dtoxs,0.0,Beast Mastery,Bm,BM
+66,Hunter,spec_0,Eesob,201.8,Beast Mastery,Bm,BM
+67,Hunter,spec_0,Enosslas,2077.9,Beast Mastery,Bm,BM
+68,Hunter,spec_0,Hunterbeardz,628.5,Beast Mastery,Bm,BM
+69,Hunter,spec_0,Saxa,0.0,Beast Mastery,Bm,BM
+70,Hunter,spec_0,Vivtard,849.9,Beast Mastery,Bm,BM
+71,Hunter,spec_1,Brakyn,0.0,Marksmanship,MM,MM
+72,Hunter,spec_1,Dtoxs,0.0,Marksmanship,MM,MM
+73,Hunter,spec_1,Eesob,0.0,Marksmanship,MM,MM
+74,Hunter,spec_1,Enosslas,661.4,Marksmanship,MM,MM
+75,Hunter,spec_1,Hunterbeardz,0.0,Marksmanship,MM,MM
+76,Hunter,spec_1,Saxa,0.0,Marksmanship,MM,MM
+77,Hunter,spec_1,Vivtard,0.0,Marksmanship,MM,MM
+78,Hunter,spec_2,Brakyn,0.0,Survival,SURV,Surv
+79,Hunter,spec_2,Dtoxs,0.0,Survival,SURV,Surv
+80,Hunter,spec_2,Eesob,0.0,Survival,SURV,Surv
+81,Hunter,spec_2,Enosslas,0.0,Survival,SURV,Surv
+82,Hunter,spec_2,Hunterbeardz,0.0,Survival,SURV,Surv
+83,Hunter,spec_2,Saxa,0.0,Survival,SURV,Surv
+84,Hunter,spec_2,Vivtard,0.0,Survival,SURV,Surv
+85,Mage,spec_0,Dearheart,0.0,Arcane,ARC,Arcane
+86,Mage,spec_0,Detoxs,0.0,Arcane,ARC,Arcane
+87,Mage,spec_0,Dinggirl,0.0,Arcane,ARC,Arcane
+88,Mage,spec_0,Fxs,0.0,Arcane,ARC,Arcane
+89,Mage,spec_0,Ninjapigz,0.0,Arcane,ARC,Arcane
+90,Mage,spec_0,Sarune,0.0,Arcane,ARC,Arcane
+91,Mage,spec_0,Sloppymunch,0.0,Arcane,ARC,Arcane
+92,Mage,spec_0,Voyd,0.0,Arcane,ARC,Arcane
+93,Mage,spec_1,Dearheart,0.0,Fire,FIRE,Fire
+94,Mage,spec_1,Detoxs,214.3,Fire,FIRE,Fire
+95,Mage,spec_1,Dinggirl,0.0,Fire,FIRE,Fire
+96,Mage,spec_1,Fxs,3006.3,Fire,FIRE,Fire
+97,Mage,spec_1,Ninjapigz,519.0,Fire,FIRE,Fire
+98,Mage,spec_1,Sarune,0.0,Fire,FIRE,Fire
+99,Mage,spec_1,Sloppymunch,66.3,Fire,FIRE,Fire
+100,Mage,spec_1,Voyd,0.0,Fire,FIRE,Fire
+101,Mage,spec_2,Dearheart,0.0,Frost,FRST,Frost
+102,Mage,spec_2,Detoxs,2504.7,Frost,FRST,Frost
+103,Mage,spec_2,Dinggirl,0.0,Frost,FRST,Frost
+104,Mage,spec_2,Fxs,612.7,Frost,FRST,Frost
+105,Mage,spec_2,Ninjapigz,0.0,Frost,FRST,Frost
+106,Mage,spec_2,Sarune,0.0,Frost,FRST,Frost
+107,Mage,spec_2,Sloppymunch,1763.9,Frost,FRST,Frost
+108,Mage,spec_2,Voyd,2121.0,Frost,FRST,Frost
+109,Monk,spec_0,Dtox,1258.1,Brewmaster,BREW,Brew
+110,Monk,spec_0,Eesow,230.7,Brewmaster,BREW,Brew
+111,Monk,spec_0,Titrainium,596.3,Brewmaster,BREW,Brew
+112,Monk,spec_0,Zymzz,0.0,Brewmaster,BREW,Brew
+113,Monk,spec_1,Dtox,0.0,Mistweaver,MIST,Mist
+114,Monk,spec_1,Eesow,0.0,Mistweaver,MIST,Mist
+115,Monk,spec_1,Titrainium,88.7,Mistweaver,MIST,Mist
+116,Monk,spec_1,Zymzz,0.0,Mistweaver,MIST,Mist
+117,Monk,spec_2,Dtox,515.9,Windwalker,WW,WW
+118,Monk,spec_2,Eesow,3021.6,Windwalker,WW,WW
+119,Monk,spec_2,Titrainium,1533.3,Windwalker,WW,WW
+120,Monk,spec_2,Zymzz,293.8,Windwalker,WW,WW
+121,Paladin,spec_0,Beardzz,201.9,Holy,HPAL,HPal
+122,Paladin,spec_0,Blessedthot,0.0,Holy,HPAL,HPal
+123,Paladin,spec_0,Dingbubble,0.0,Holy,HPAL,HPal
+124,Paladin,spec_0,Eesop,0.0,Holy,HPAL,HPal
+125,Paladin,spec_0,Holysoggy,451.4,Holy,HPAL,HPal
+126,Paladin,spec_0,Ibubble,2354.7,Holy,HPAL,HPal
+127,Paladin,spec_0,Itsarchy,1603.6,Holy,HPAL,HPal
+128,Paladin,spec_0,Sangyn,0.0,Holy,HPAL,HPal
+129,Paladin,spec_0,Twosome,0.0,Holy,HPAL,HPal
+130,Paladin,spec_0,Wastyy,1486.8,Holy,HPAL,HPal
+131,Paladin,spec_1,Beardzz,0.0,Protection,PROT,Prot
+132,Paladin,spec_1,Blessedthot,1903.4,Protection,PROT,Prot
+133,Paladin,spec_1,Dingbubble,0.0,Protection,PROT,Prot
+134,Paladin,spec_1,Eesop,2830.7,Protection,PROT,Prot
+135,Paladin,spec_1,Holysoggy,0.0,Protection,PROT,Prot
+136,Paladin,spec_1,Ibubble,2453.4,Protection,PROT,Prot
+137,Paladin,spec_1,Itsarchy,0.0,Protection,PROT,Prot
+138,Paladin,spec_1,Sangyn,0.0,Protection,PROT,Prot
+139,Paladin,spec_1,Twosome,216.0,Protection,PROT,Prot
+140,Paladin,spec_1,Wastyy,0.0,Protection,PROT,Prot
+141,Paladin,spec_2,Beardzz,1964.4,Retribution,RET,Ret
+142,Paladin,spec_2,Blessedthot,1006.8,Retribution,RET,Ret
+143,Paladin,spec_2,Dingbubble,157.5,Retribution,RET,Ret
+144,Paladin,spec_2,Eesop,0.0,Retribution,RET,Ret
+145,Paladin,spec_2,Holysoggy,0.0,Retribution,RET,Ret
+146,Paladin,spec_2,Ibubble,2514.6,Retribution,RET,Ret
+147,Paladin,spec_2,Itsarchy,0.0,Retribution,RET,Ret
+148,Paladin,spec_2,Sangyn,0.0,Retribution,RET,Ret
+149,Paladin,spec_2,Twosome,0.0,Retribution,RET,Ret
+150,Paladin,spec_2,Wastyy,0.0,Retribution,RET,Ret
+151,Priest,spec_0,Capriestsunn,631.1,Discipline,DISC,Disc
+152,Priest,spec_0,Dingboy,2108.3,Discipline,DISC,Disc
+153,Priest,spec_0,Eesoh,0.0,Discipline,DISC,Disc
+154,Priest,spec_0,Fcz,872.3,Discipline,DISC,Disc
+155,Priest,spec_0,Vivheal,0.0,Discipline,DISC,Disc
+156,Priest,spec_0,Zymss,0.0,Discipline,DISC,Disc
+157,Priest,spec_1,Capriestsunn,0.0,Holy,HPR,Holy
+158,Priest,spec_1,Dingboy,973.0,Holy,HPR,Holy
+159,Priest,spec_1,Eesoh,2717.8,Holy,HPR,Holy
+160,Priest,spec_1,Fcz,0.0,Holy,HPR,Holy
+161,Priest,spec_1,Vivheal,204.2,Holy,HPR,Holy
+162,Priest,spec_1,Zymss,442.9,Holy,HPR,Holy
+163,Priest,spec_2,Capriestsunn,0.0,Shadow,SHAD,Shadow
+164,Priest,spec_2,Dingboy,2038.8,Shadow,SHAD,Shadow
+165,Priest,spec_2,Eesoh,368.5,Shadow,SHAD,Shadow
+166,Priest,spec_2,Fcz,2502.1,Shadow,SHAD,Shadow
+167,Priest,spec_2,Vivheal,771.6,Shadow,SHAD,Shadow
+168,Priest,spec_2,Zymss,0.0,Shadow,SHAD,Shadow
+169,Rogue,spec_0,Fcs,0.0,Assassination,SIN,Sin
+170,Rogue,spec_1,Fcs,1377.8,Outlaw,OUTL,Outlaw
+171,Rogue,spec_2,Fcs,2672.5,Subtlety,SUB,Sub
+172,Shaman,spec_0,Darknès,0.0,Elemental,ELE,Ele
+173,Shaman,spec_0,Grazzier,1771.3,Elemental,ELE,Ele
+174,Shaman,spec_0,Hexualheálin,0.0,Elemental,ELE,Ele
+175,Shaman,spec_0,Oda,2198.6,Elemental,ELE,Ele
+176,Shaman,spec_0,Omgwtfhaxx,0.0,Elemental,ELE,Ele
+177,Shaman,spec_0,Toxs,0.0,Elemental,ELE,Ele
+178,Shaman,spec_0,Yenoslas,0.0,Elemental,ELE,Ele
+179,Shaman,spec_1,Darknès,0.0,Enhancement,ENH,Enh
+180,Shaman,spec_1,Grazzier,0.0,Enhancement,ENH,Enh
+181,Shaman,spec_1,Hexualheálin,0.0,Enhancement,ENH,Enh
+182,Shaman,spec_1,Oda,2287.6,Enhancement,ENH,Enh
+183,Shaman,spec_1,Omgwtfhaxx,0.0,Enhancement,ENH,Enh
+184,Shaman,spec_1,Toxs,0.0,Enhancement,ENH,Enh
+185,Shaman,spec_1,Yenoslas,0.0,Enhancement,ENH,Enh
+186,Shaman,spec_2,Darknès,0.0,Restoration,RESTO,Resto
+187,Shaman,spec_2,Grazzier,0.0,Restoration,RESTO,Resto
+188,Shaman,spec_2,Hexualheálin,0.0,Restoration,RESTO,Resto
+189,Shaman,spec_2,Oda,361.8,Restoration,RESTO,Resto
+190,Shaman,spec_2,Omgwtfhaxx,2008.9,Restoration,RESTO,Resto
+191,Shaman,spec_2,Toxs,2505.2,Restoration,RESTO,Resto
+192,Shaman,spec_2,Yenoslas,0.0,Restoration,RESTO,Resto
+193,Warlock,spec_0,Dingology,0.0,Affliction,AFFL,Affl
+194,Warlock,spec_0,Handycap,0.0,Affliction,AFFL,Affl
+195,Warlock,spec_1,Dingology,744.5,Demonology,DEMO,Demo
+196,Warlock,spec_1,Handycap,1976.9,Demonology,DEMO,Demo
+197,Warlock,spec_2,Dingology,0.0,Destruction,DSTRO,Destro
+198,Warlock,spec_2,Handycap,1145.7,Destruction,DSTRO,Destro
+199,Warrior,spec_0,Beheadme,0.0,Arms,ARMS,Arms
+200,Warrior,spec_0,Bêardz,0.0,Arms,ARMS,Arms
+201,Warrior,spec_0,Dingstorm,0.0,Arms,ARMS,Arms
+202,Warrior,spec_0,Dtx,0.0,Arms,ARMS,Arms
+203,Warrior,spec_0,Extraineous,0.0,Arms,ARMS,Arms
+204,Warrior,spec_0,Jackrum,0.0,Arms,ARMS,Arms
+205,Warrior,spec_0,Zymbodia,0.0,Arms,ARMS,Arms
+206,Warrior,spec_1,Beheadme,0.0,Fury,FURY,Fury
+207,Warrior,spec_1,Bêardz,0.0,Fury,FURY,Fury
+208,Warrior,spec_1,Dingstorm,0.0,Fury,FURY,Fury
+209,Warrior,spec_1,Dtx,569.2,Fury,FURY,Fury
+210,Warrior,spec_1,Extraineous,67.5,Fury,FURY,Fury
+211,Warrior,spec_1,Jackrum,1780.5,Fury,FURY,Fury
+212,Warrior,spec_1,Zymbodia,0.0,Fury,FURY,Fury
+213,Warrior,spec_2,Beheadme,0.0,Protection,PROT,Prot
+214,Warrior,spec_2,Bêardz,0.0,Protection,PROT,Prot
+215,Warrior,spec_2,Dingstorm,0.0,Protection,PROT,Prot
+216,Warrior,spec_2,Dtx,0.0,Protection,PROT,Prot
+217,Warrior,spec_2,Extraineous,0.0,Protection,PROT,Prot
+218,Warrior,spec_2,Jackrum,0.0,Protection,PROT,Prot
+219,Warrior,spec_2,Zymbodia,195.0,Protection,PROT,Prot
